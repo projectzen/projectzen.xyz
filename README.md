@@ -6,6 +6,6 @@ This is the website for Project Zen. It can be found at
 
 Components Used
 ---------------
-* Middleman
-* Bootstrap <small>(don't judge)</small>
-* FontAwesome
+* [Middleman](http://middlemanapp.com/)
+* [Bootstrap](http://getbootstrap.com/)
+* [FontAwesome](https://fortawesome.github.io/Font-Awesome/)
