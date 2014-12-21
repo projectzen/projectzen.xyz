@@ -8,3 +8,4 @@ Components Used
 ---------------
 * Middleman
 * Bootstrap <small>(don't judge)</small>
+* FontAwesome
