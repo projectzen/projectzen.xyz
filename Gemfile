@@ -15,3 +15,6 @@ gem "tzinfo-data", platforms: [:mswin, :mingw]
 
 # Bootstrap helpers
 gem 'bh', '~> 1.2'
+
+# Javascript runtime
+gem "therubyracer"
