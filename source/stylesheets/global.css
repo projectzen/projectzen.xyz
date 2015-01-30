@@ -7,3 +7,16 @@
         border-radius: 0px;
     }
 }
+
+body.index nav {
+    margin-bottom: 0;
+}
+
+body.index div.jumbotron {
+    background-image: url("/images/jumbotron_bg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    height: 50%;
+    word-spacing: .2em;
+    text-align: center;
+}

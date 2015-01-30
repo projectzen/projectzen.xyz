@@ -2,7 +2,7 @@ projectzen.xyz
 ==============
 
 This is the website for Project Zen. It can be found at
-[projectzen.xyz](https://projectzen.xyz).
+[projectzen.xyz](https://projectzen.xyz). Check it out!
 
 Components Used
 ---------------
