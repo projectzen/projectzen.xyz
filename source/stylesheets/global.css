@@ -15,7 +15,7 @@ body.index nav {
 body.index div.jumbotron {
     background-image: url("/images/jumbotron_bg.jpg");
     background-repeat: no-repeat;
-    background-size: 100% auto;
+    background-size: cover;
     height: 50%;
     word-spacing: .2em;
     text-align: center;

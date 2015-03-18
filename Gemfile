@@ -14,7 +14,7 @@ gem "wdm", "~> 0.1.0", :platforms => [:mswin, :mingw]
 gem "tzinfo-data", platforms: [:mswin, :mingw]
 
 # Bootstrap helpers
-gem 'bh', '~> 1.2'
+gem 'bh', '~> 1.3'
 
 # Javascript runtime
 gem "therubyracer"
