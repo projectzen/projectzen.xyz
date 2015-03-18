@@ -31,11 +31,9 @@
           %img.img-responsive{src: "/images/logo.svg"}
       = horizontal do
         = nav class: 'navbar-right' do
-          %li
-            %a{href: "https://github.com/projectzen"}
-              = icon(:github, library: :font_awesome) + "GitHub"
-          %li
-            = link_to "/budget.html", class: "" do
-              = icon(:money, library: :font_awesome) + "Our Budget"
+          = link_to "https://github.com/projectzen" do
+            = icon(:github, library: :font_awesome) + " GitHub"
+          = link_to "/budget.html" do
+            = icon(:money, library: :font_awesome) + " Our Budget"
 
     = yield
